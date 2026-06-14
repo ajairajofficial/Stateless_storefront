@@ -13,7 +13,7 @@
   <img alt="level" src="https://img.shields.io/badge/level-beginner%20to%20expert-b69cff?style=flat-square&labelColor=000000">
 </p>
 
-> **▶ Read it live:** `https://ajairajofficial.github.io/Stateless_storefront`
+> **▶ Read it live:** `https://ajairajofficial.com/zerostatestore/`
 > — or just open [`stateless-storefront-explainer.html`](stateless-storefront-explainer.html) in any browser. No build step, no dependencies.
 
 ```
